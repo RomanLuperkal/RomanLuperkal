@@ -12,7 +12,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanLuperkal&repo=java-kanban)](https://github.com/RomanLuperkal/java-kanban)
 
 
-### Languages and Tools
+### Языки и инструменты
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=e38873)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=for-the-badge&logo=spring&logoColor=90fd87)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgreSQL&logoColor=275ecf)
@@ -25,6 +25,6 @@
 
 
 
-### Follow me
+### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27a0d9)](https://t.me/RomanLuperkal)
 [![VK.com](https://img.shields.io/badge/-vk.com-090909?style=for-the-badge&logo=vk&logoColor=27a0d9)](https://vk.com/id50188769)
