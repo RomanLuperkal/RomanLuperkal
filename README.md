@@ -7,9 +7,9 @@
 
 Часть из моих реализованных проектов на Java:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanLuperkal&repo=java-shareit)](https://github.com/RomanLuperkal/java-shareit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanLuperkal&repo=java-filmorate)](https://github.com/RomanLuperkal/java-filmorate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanLuperkal&repo=java-kanban)](https://github.com/RomanLuperkal/java-kanban)
+* [Shareit](https://github.com/RomanLuperkal/java-shareit)
+* [Filmorate](https://github.com/RomanLuperkal/java-filmorate)
+* [Kanban](https://github.com/RomanLuperkal/java-kanban)
 
 
 ### Языки и инструменты
