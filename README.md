@@ -9,8 +9,6 @@
 
 * [Shareit](https://github.com/RomanLuperkal/java-shareit)
 * [Filmorate](https://github.com/RomanLuperkal/java-filmorate)
-* [Kanban](https://github.com/RomanLuperkal/java-kanban)
-
 
 ### Языки и инструменты
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=e38873)
