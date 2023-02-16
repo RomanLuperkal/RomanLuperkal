@@ -1,5 +1,5 @@
 ## Приветствую всех!
-Меня зовут Роман и я - начинающий backend-разработчик. Мой интерес к миру java и backend-разработки начался с 
+Меня зовут Роман и я - backend-разработчик. Мой интерес к миру java и backend-разработки начался с 
 написания алгоритмов обработки и преобразования сигналов на контроллерах на С++ .
 Спустя некоторое время меня заинтересовал язык программирования java. Обучался самостоятельно по учебной литературе
 по таким книгам как Брюс Эккель "Философия Java", Java from EPAM и др. Прошел курсы по Java-разработке 
@@ -7,9 +7,9 @@
 
 Часть из моих реализованных проектов на Java:
 
-* [Shareit](https://github.com/RomanLuperkal/java-shareit)
-* [Filmorate](https://github.com/RomanLuperkal/java-filmorate)
-* [Kanban](https://github.com/RomanLuperkal/java-kanban)
+* [Shareit](https://github.com/RomanLuperkal/java-shareit) - Приложение по аренде предметов
+* [Filmorate](https://github.com/RomanLuperkal/java-filmorate) - Cоциальная сеть для просмотра фильмов по своим предпочтениям и рекомендациям друзей
+* [ExploreWithMe](https://github.com/RomanLuperkal/java-explore-with-me) - Приложение по публикации событий
 
 
 ### Языки и инструменты
